@@ -6,7 +6,7 @@ namespace MVT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");//trtrffffffffssss
+            Console.WriteLine("Hello World!");//trtrffffffffssssss
         }
     }
 }
